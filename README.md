@@ -6,7 +6,7 @@ The principle of this script is that it compares the MD5 Hash of individual file
 You can use Microsoft OneDrive, Drive by Google, DropBox, Syncthing, Resilio Sync... to sync a file between devices and the same .bat file on another device.
 
 
-## Donate me
+## Donate
 
 BTC
 ```
