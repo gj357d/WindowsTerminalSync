@@ -24,3 +24,7 @@ ADA (ADA Network)
 ```
 addr1qy7wpxnlarr7ywhsqffk9fmfdqdrh4k7n47fem9xwljvyueuuzd8l6x8uga0qqjnv2nkj6q680tda8tunnk2valycfesmcc6ur
 ```
+USDT (ETH Network)
+```
+0x55A50063774133eD52A0A8f9464eC69Bd7275215
+```
